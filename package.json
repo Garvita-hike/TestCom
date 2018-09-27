@@ -1,0 +1,21 @@
+{
+  "name": "ImageListTextView",
+  "version": "1.0.0",
+  "description": "ImageListTextView render a list of circular images along with text section at the bottom. The last image is covered with an overlay color and text. Userful to render social sections in apps where you need to show list of users at multiple places",
+  "main": "index.js",
+	"scripts": {},
+	"keywords": [],
+	"author": "Hike",
+	"license": "ISC",
+	"dependencies": {
+		"prop-types": "^15.6.1"
+	},
+	"devDependencies": {
+		"react": "16.3.1",
+		"react-native": "0.55.3"
+	},
+	"peerDependencies": {
+    	"react": "*",
+    	"react-native": "*"
+   },
+}
